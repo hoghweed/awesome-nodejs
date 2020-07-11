@@ -21,6 +21,7 @@ A curated list of cool, good or just simple resources related to and made with N
     - [Documentation](#documentation)
     - [Docker](#docker)
     - [Electron](#electron)
+    - [Events](#events)
     - [Event Sourcing](#event-sourcing)
     - [Fastify](#fastify)
     - [Financial](#financial)
@@ -49,7 +50,7 @@ A curated list of cool, good or just simple resources related to and made with N
     - [Development](#development-1)
     - [Docker](#docker-1)
     - [Event Loop](#event-loop)
-    - [Events](#events)
+    - [Events](#events-1)
     - [Getting Started](#getting-started)
     - [Http](#http-1)
     - [Monorepo](#monorepo)
@@ -92,6 +93,7 @@ A curated list of cool, good or just simple resources related to and made with N
 ### Automation
 
 - [foxr](https://github.com/deepsweet/foxr) - Node.js API to control Firefox
+- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 
 ### Blogging
 
@@ -122,7 +124,9 @@ A curated list of cool, good or just simple resources related to and made with N
 
 - [RxDB](https://github.com/pubkey/rxdb) - RxDB A realTime database for JavaScript Applications
 - [Nano-SQL](https://github.com/ClickSimply/Nano-SQL) - Universal database layer for the client, server & mobile devices. It's like Lego for databases.
+- [hyperdb](https://github.com/mafintosh/hyperdb) - Distributed scalable database 
 - [Mongoku](https://github.com/huggingface/Mongoku) - The Web-scale GUI for MongoDB
+- [Userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 
 ### Date Time
 
@@ -132,12 +136,14 @@ A curated list of cool, good or just simple resources related to and made with N
 
 -  [actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - A toolkit for building GitHub Actions in Node.js 
 -  [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner 
+-  [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs
 
 ### Documentation
 
 - [docz](https://github.com/doczjs/docz) - It has never been so easy to document your things!
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source. 
 - [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and mo
+- [JIRA_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 
 ### Docker
 
@@ -148,6 +154,10 @@ A curated list of cool, good or just simple resources related to and made with N
 - [levelui](https://github.com/heapwolf/levelui) - A GUI for LevelDB management based on atom-shell
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [AppServer](https://github.com/bismay4u/AppServer) - AppServer is a Desktop Proxy + App Server for HTML, MD files for Developers and Enthusiasts
+
+### Events
+
+- [monument](https://github.com/ansble/monument) - event based http server for nodejs
 
 ### Event Sourcing
 
@@ -189,6 +199,7 @@ A curated list of cool, good or just simple resources related to and made with N
 ### Markdown
 
 - [Fusuma](https://github.com/hiroppy/fusuma) - Fusuma makes slides with Markdown easily.
+- [big](https://github.com/tmcw/big) - presentations for busy messy hackers
 
 ### Music
 
@@ -225,6 +236,7 @@ A curated list of cool, good or just simple resources related to and made with N
 
 ### Rule Engines
 
+- [json-rule-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON
 - [nools](https://github.com/noolsjs/nools) - Rete based rules engine written in javascript 
 
 ### Streams
@@ -240,6 +252,7 @@ A curated list of cool, good or just simple resources related to and made with N
 - [cogear.js](https://github.com/codemotion/cogear.js) - Modern static websites generator (Node.JS/Webpack)
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
+- [saber](https://github.com/saberland/saber) - ()==[:::::::::::::> Build static sites in Vue.js, without the hassle 
 
 ### Threading
 
@@ -248,6 +261,8 @@ A curated list of cool, good or just simple resources related to and made with N
 ### URIs
 
 - [tall](https://github.com/lmammino/tall) - Promise-based, No-dependency URL unshortner (expander) module for Node.js
+- [slugify](https://github.com/sindresorhus/slugify) - Slugify a string
+- [mercury-parser](https://github.com/postlight/mercury-parser) - Extract meaningful content from the chaos of a web page
 
 ### Utility
 
