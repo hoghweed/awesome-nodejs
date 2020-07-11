@@ -6,6 +6,7 @@ A curated list of cool, good or just simple resources related to and made with N
   - [contents](#contents)
   - [Packages](#packages)
     - [API](#api)
+    - [AI](#ai)
     - [Analytics](#analytics)
     - [Algorithms](#algorithms)
     - [Async](#async)
@@ -32,13 +33,16 @@ A curated list of cool, good or just simple resources related to and made with N
     - [Music](#music)
     - [Neural Network](#neural-network)
     - [Package Management](#package-management)
+    - [Precess Management](#precess-management)
     - [Queues](#queues)
     - [Realtime](#realtime)
+    - [Rule Engines](#rule-engines)
     - [Streams](#streams)
     - [State Machines](#state-machines)
     - [Static Site Generators](#static-site-generators)
     - [Threading](#threading)
     - [URIs](#uris)
+    - [Utility](#utility)
     - [Web Frameworks](#web-frameworks)
     - [Web Servers](#web-servers)
   - [Articles](#articles)
@@ -66,9 +70,14 @@ A curated list of cool, good or just simple resources related to and made with N
 - [konga](https://github.com/pantsel/konga) - More than just another GUI to Kong Admin API 
 - [apify-js](https://github.com/apifytech/apify-js) - Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer
 
+### AI
+
+- [leon](https://github.com/leon-ai/leon) - Leon is your open-source personal assistant.
+
 ### Analytics
 
 - [Viper](https://github.com/aaronjwood/viper) - Real-time tracking and analytics using Node.js and Socket.IO
+- [insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform 
 
 ### Algorithms
 
@@ -92,6 +101,7 @@ A curated list of cool, good or just simple resources related to and made with N
 ### Bots
 
 - [arbitrage.js](https://github.com/vladthelittleone/arbitrage.js) - Arbitrage Bot: a long/short market-neutral strategy 
+- [leon](https://github.com/leon-ai/leon) - Leon is your open-source personal assistant
 
 ### Command Line Tools
 
@@ -193,6 +203,10 @@ A curated list of cool, good or just simple resources related to and made with N
 - [proxy-registry](https://github.com/npm/proxy-registry) - This is a simple proxy registry that uses your existing npm cache
 - [yalc](https://github.com/whitecolor/yalc) - Work with yarn/npm packages locally like a boss.
 
+### Precess Management
+
+- [execa](https://github.com/sindresorhus/execa) - Process execution for humans
+
 ### Queues
 
 - [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS
@@ -207,6 +221,11 @@ A curated list of cool, good or just simple resources related to and made with N
 - [hexnut-restore-connection](https://github.com/francisrstokes/hexnut-restore-connection) - HexNut middleware to restore a lost connection 
 - [hexnut-router](https://github.com/francisrstokes/hexnut-router) - Routing middleware for HexNut
 - [turtleDB](https://github.com/turtle-DB/turtleDB) - turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications
+- [deepstream](https://github.com/deepstreamIO/deepstream.io) - the open realtime server
+
+### Rule Engines
+
+- [nools](https://github.com/noolsjs/nools) - Rete based rules engine written in javascript 
 
 ### Streams
 
@@ -229,6 +248,10 @@ A curated list of cool, good or just simple resources related to and made with N
 ### URIs
 
 - [tall](https://github.com/lmammino/tall) - Promise-based, No-dependency URL unshortner (expander) module for Node.js
+
+### Utility
+
+- [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 
 ### Web Frameworks
 
