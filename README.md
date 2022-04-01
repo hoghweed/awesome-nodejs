@@ -238,6 +238,11 @@ A curated list of cool, good or just simple resources related to and made with N
 
 - [json-rule-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON
 - [nools](https://github.com/noolsjs/nools) - Rete based rules engine written in javascript 
+- [node-rools](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine written in JavaScript. 
+- [rools](https://github.com/frankthelen/rools) -  A small rule engine for Node. 
+- [trool](https://github.com/seanpmaxwell/Trool) -  A rule engine for NodeJS written in TypeScript 
+- [js-rules-engine](https://github.com/justinlettau/js-rules-engine) -  JavaScript rules engine for validating data object structures. 
+- [rules](https://github.com/jruizgit/rules) -  Durable Rules Engine 
 
 ### Streams
 
