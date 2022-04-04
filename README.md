@@ -30,6 +30,7 @@ A curated list of cool, good or just simple resources related to and made with N
     - [Http](#http)
     - [Id Generators](#id-generators)
     - [JSON](#json)
+    - [Management](#management)
     - [Markdown](#markdown)
     - [Music](#music)
     - [Neural Network](#neural-network)
@@ -166,6 +167,7 @@ A curated list of cool, good or just simple resources related to and made with N
 ### Fastify
 
 - [fastify-gql](https://github.com/mcollina/fastify-gql) - Fastify barebone GraphQL adapter
+- [restartable](https://github.com/fastify/restartable) -  Restart Fastify without losing a request 
 
 ### Financial
 
@@ -196,6 +198,10 @@ A curated list of cool, good or just simple resources related to and made with N
 - [dinoql](https://github.com/victorvoid/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects
 - [redactyl.js](https://github.com/rcjpisani/redactyl.js) - Redact sensitive information from JSON for logging (Node.js) 
 
+### Management
+
+- [redis-commander](https://github.com/joeferner/redis-commander) -  Redis management tool written in node.js
+
 ### Markdown
 
 - [Fusuma](https://github.com/hiroppy/fusuma) - Fusuma makes slides with Markdown easily.
@@ -221,6 +227,7 @@ A curated list of cool, good or just simple resources related to and made with N
 ### Queues
 
 - [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS
+- [node-resque](https://github.com/actionhero/node-resque) -  Node.js Background jobs backed by redis. 
 
 ### Realtime
 
