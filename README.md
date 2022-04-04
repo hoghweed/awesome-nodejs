@@ -38,6 +38,7 @@ A curated list of cool, good or just simple resources related to and made with N
     - [Precess Management](#precess-management)
     - [Queues](#queues)
     - [Realtime](#realtime)
+    - [RegExp](#regexp)
     - [Rule Engines](#rule-engines)
     - [Streams](#streams)
     - [State Machines](#state-machines)
@@ -80,6 +81,7 @@ A curated list of cool, good or just simple resources related to and made with N
 
 - [Viper](https://github.com/aaronjwood/viper) - Real-time tracking and analytics using Node.js and Socket.IO
 - [insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform 
+- [Ackee](https://github.com/electerious/Ackee) -  Self-hosted, Node.js based analytics tool for those who care about privacy. 
 
 ### Algorithms
 
@@ -145,6 +147,7 @@ A curated list of cool, good or just simple resources related to and made with N
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source. 
 - [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and mo
 - [JIRA_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+- [docma](https://github.com/onury/docma) -  A powerful tool to easily generate beautiful HTML documentation from JavaScript (JSDoc), Markdown and HTML files. 
 
 ### Docker
 
@@ -186,6 +189,7 @@ A curated list of cool, good or just simple resources related to and made with N
 - [httpie](https://github.com/lukeed/httpie) - A Node.js HTTP client as easy as pie!
 - [request-compose](https://github.com/simov/request-compose) - Composable HTTP Client
 - [user-agents](https://github.com/intoli/user-agents) - A JavaScript library for generating random user agents with data that's updated daily
+- [monument](https://github.com/ansble/monument) -  event based http server for nodejs 
 
 ### Id Generators
 
@@ -201,6 +205,9 @@ A curated list of cool, good or just simple resources related to and made with N
 ### Management
 
 - [redis-commander](https://github.com/joeferner/redis-commander) -  Redis management tool written in node.js
+- [adminjs](https://github.com/SoftwareBrothers/adminjs) -  AdminJS is an admin panel for apps written in node.js 
+- [BugVilla](https://github.com/anuraghazra/BugVilla) -  Track, Manage & Kill Bugs Effectively 🔪 🪲 
+- [guijs](https://github.com/Akryum/guijs/) -  🐣️ The app that makes your #devlife easier. 
 
 ### Markdown
 
@@ -241,6 +248,10 @@ A curated list of cool, good or just simple resources related to and made with N
 - [turtleDB](https://github.com/turtle-DB/turtleDB) - turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications
 - [deepstream](https://github.com/deepstreamIO/deepstream.io) - the open realtime server
 
+### RegExp
+
+- [super-expressive](https://github.com/francisrstokes/super-expressive) -  🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language 
+
 ### Rule Engines
 
 - [json-rule-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON
@@ -250,6 +261,10 @@ A curated list of cool, good or just simple resources related to and made with N
 - [trool](https://github.com/seanpmaxwell/Trool) -  A rule engine for NodeJS written in TypeScript 
 - [js-rules-engine](https://github.com/justinlettau/js-rules-engine) -  JavaScript rules engine for validating data object structures. 
 - [rules](https://github.com/jruizgit/rules) -  Durable Rules Engine 
+
+### Security
+
+- [gateman](https://github.com/NwangwuOsitadinma/gateman) - Authorization for node
 
 ### Streams
 
@@ -279,6 +294,7 @@ A curated list of cool, good or just simple resources related to and made with N
 ### Utility
 
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
+- [klona](https://github.com/lukeed/klona) -  A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more! 
 
 ### Web Frameworks
 
