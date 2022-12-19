@@ -209,6 +209,10 @@ A curated list of cool, good or just simple resources related to and made with N
 - [BugVilla](https://github.com/anuraghazra/BugVilla) -  Track, Manage & Kill Bugs Effectively 🔪 🪲 
 - [guijs](https://github.com/Akryum/guijs/) -  🐣️ The app that makes your #devlife easier. 
 
+### Messaging
+
+- [websub](https://github.com/durkes/wubsub) - A simple and fast pub/sub server and client using WebSockets and Node.js
+
 ### Markdown
 
 - [Fusuma](https://github.com/hiroppy/fusuma) - Fusuma makes slides with Markdown easily.
